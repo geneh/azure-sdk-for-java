@@ -20,6 +20,8 @@
 /sdk/appconfiguration/                              @mssfang @alzimmermsft
 /sdk/appconfiguration/spring-cloud-azure-*/         @mrm9084 @saragluna @yiliuTo @chenrujun @zhoufenqin @jialindai
 
+/sdk/loganalytics/microsoft-azure-loganalytics/     @divya-jay @geneh @alongafni
+
 # PRLabel: %Batch
 /sdk/batch/                                         @xingwu1 @bgklein @matthchr
 
